@@ -1,6 +1,6 @@
-# Rescue The Baker
+# Data Critical The Baker
 
-Basit bir eğitim/örnek projesi — fırıncıyı kurtarma temalı küçük C programı.
+Basit bir eğitim/örnek projesi — fırıncıyı kurtarma  ve elindeki verileri yorumlama temalı küçük C programı.
 (Orijinal dosya adı Türkçeydi; daha okunur hale getirmek için İngilizce başlık kullandım.)
 
 ## Ne yapar
@@ -33,7 +33,7 @@ Output:
 ```
 
 ## Dosyalar
-- `Rescue-The-Baker.c` — ana kaynak dosyası
+- `Data-Critical-The-Baker.c` — ana kaynak dosyası
 
 ## Katkıda Bulunmak
 Katkılar için teşekkürler! Aşağıdakiler yardımcı olur:
